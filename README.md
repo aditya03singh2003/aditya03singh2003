@@ -47,7 +47,8 @@
 ## 🏆 Achievements
 
 - 🎖️ **AIR 72** among 100 000+ participants in CodeKaze (Sep 2024)  
-- 🥇 Solved **200+** LeetCode problems; **500+** on CodeChef, GFG & Coding Ninjas  
+- 🥇 Solved **250+** LeetCode problems
+- 🥇 **500+** on CodeChef, GFG & Coding Ninjas
 
 ---
 
